@@ -41,7 +41,7 @@
 
   <text x="44" y="160" class="cjk" font-size="38" font-weight="700" fill="#58a6ff">丁楠<tspan fill="#484f58" font-weight="400" dx="16">/</tspan><tspan fill="#58a6ff" dx="16">cod7ce</tspan></text>
 
-  <text x="46" y="196" class="cjk" font-size="16" fill="#8b949e">在苏州写代码 · mycolorway / BangWork · Ruby 后端 &amp; macOS 小工具</text>
+  <text x="46" y="196" class="cjk" font-size="16" fill="#8b949e">在苏州写代码 · mycolorway / BangWork · Go &amp; Ruby 后端 · macOS 小工具</text>
 
   <text x="44" y="252" class="mono" font-size="17">
     <tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9" dx="10">ls ~/now-building</tspan>

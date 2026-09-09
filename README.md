@@ -13,8 +13,8 @@
 
 ### 🙋 关于我，三句话说完
 
-- 🧭 苏州人肉编译器一台，白天在 **[mycolorway](https://github.com/mycolorway)** / **[BangWork](https://github.com/BangWork)** 写 Ruby，晚上在家给 Mac 写小工具。
-- 🕰️ 从 Objective-C 一路写到 Swift，中间顺手把 Rails、jQuery、Node 都摸了一遍 —— 是的，我还记得 jQuery 插件怎么写。
+- 🧭 苏州人肉编译器一台，白天在 **[mycolorway](https://github.com/mycolorway)** / **[BangWork](https://github.com/BangWork)** 写 Go 和 Ruby，晚上在家给 Mac 写小工具。
+- 🕰️ 从 Objective-C 一路写到 Swift 和 Go，中间顺手把 Rails、jQuery、Node 都摸了一遍 —— 是的，我还记得 jQuery 插件怎么写。
 - 🧸 现在最大的甲方是我家小孩，需求变更频繁，验收标准是「好不好玩」。
 
 ```ruby
@@ -23,7 +23,7 @@ class DingNan < Developer
   COFFEE = Float::INFINITY
 
   def daily
-    [:ruby, :javascript, :swift].sample.then { |lang| write(lang) }
+    [:go, :ruby, :javascript, :swift].sample.then { |lang| write(lang) }
   rescue BugFoundError => e
     puts "在我机器上是好的 🤷"
     retry
@@ -67,6 +67,7 @@ end
 
 ### 🧰 手边的家伙什
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
