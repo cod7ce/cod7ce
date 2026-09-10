@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="http://www.zhifangzi.com"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_Blog-zhifangzi.com-0969da?style=for-the-badge&labelColor=1f2328" alt="Blog"></a>
+  <a href="https://cod7ce.github.io"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_Blog-cod7ce.github.io-0969da?style=for-the-badge&labelColor=1f2328" alt="Blog"></a>
   <a href="mailto:cod7ce@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%AB_Mail-cod7ce-bf3989?style=for-the-badge&labelColor=1f2328" alt="Mail"></a>
   <a href="https://github.com/cod7ce?tab=followers"><img src="https://img.shields.io/github/followers/cod7ce?style=for-the-badge&label=%F0%9F%91%A5%20Followers&color=1a7f37&labelColor=1f2328" alt="Followers"></a>
 </p>
