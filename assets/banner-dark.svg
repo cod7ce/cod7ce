@@ -47,5 +47,5 @@
     <tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9" dx="10">ls ~/now-building</tspan>
   </text>
 
-  <text x="46" y="290" class="cjk" font-size="17" fill="#ffa657">kid-scratch-app<tspan fill="#f778ba" dx="26">TouchGuard</tspan><tspan fill="#8b949e" dx="26">…以及一堆自用小玩意</tspan><tspan fill="#7ee787" dx="14">▊<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  <text x="46" y="290" class="cjk" font-size="17" fill="#d2a8ff">FourQuadrants<tspan fill="#ffa657" dx="26">kid-scratch-app</tspan><tspan fill="#f778ba" dx="26">TouchGuard</tspan><tspan fill="#8b949e" dx="26">…以及一堆自用小玩意</tspan><tspan fill="#7ee787" dx="14">▊<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
 </svg>
