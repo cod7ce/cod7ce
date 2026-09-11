@@ -35,6 +35,17 @@ end
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+
+**🧭 [FourQuadrants](https://github.com/cod7ce/FourQuadrants)** &nbsp;`Swift`
+
+肆 · 原生 macOS / iOS 四象限（艾森豪威尔矩阵）任务管理。SwiftUI + SwiftData，拖拽换象限、子任务、标签、本周议程，本地优先、iCloud 同步、自动更新。
+
+> 起因：待办越记越多，分不清哪件该先做。<br>结果：先做了一个「帮我分清先做哪件」的 App。
+
+</td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 **🧩 [kid-scratch-app](https://github.com/cod7ce/kid-scratch-app)** &nbsp;`JavaScript`
@@ -51,17 +62,6 @@ end
 打字时自动屏蔽触控板，防止手掌误触的 macOS 菜单栏小工具。
 
 > 起因：打字时手掌蹭到触控板，光标乱飞。<br>结果：与其忍，不如写一个。
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-**🧭 [FourQuadrants](https://github.com/cod7ce/FourQuadrants)** &nbsp;`Swift`
-
-肆 · 原生 macOS / iOS 四象限（艾森豪威尔矩阵）任务管理。SwiftUI + SwiftData，拖拽换象限、子任务、标签、本周议程，本地优先、iCloud 同步、自动更新。
-
-> 起因：待办越记越多，分不清哪件该先做。<br>结果：先做了一个「帮我分清先做哪件」的 App。
 
 </td>
   </tr>
