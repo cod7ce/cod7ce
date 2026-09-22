@@ -46,6 +46,17 @@ end
 </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+
+**📚 [CourseHours](https://github.com/cod7ce/CourseHours)** &nbsp;`Tauri` `Rust`
+
+课时统计 · 给英语小班教学用的 macOS 桌面应用：排课、点名扣课时、课时账本、充值抵扣、经营报表。Tauri 2 + React 19 + Rust（rusqlite），纯本地 SQLite，账本只追加不修改，Touch ID 才看得见金额，应用内自动更新。
+
+> 起因：课时记在 Excel 里，一笔对不上就得从头翻。<br>结果：写了一本只能往后记、不能改的账。
+
+</td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 **🧩 [kid-scratch-app](https://github.com/cod7ce/kid-scratch-app)** &nbsp;`JavaScript`
@@ -82,10 +93,13 @@ end
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
